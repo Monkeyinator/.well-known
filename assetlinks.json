@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.brotherprojekt.bingo_creator",
+      "sha256_cert_fingerprints":
+        ["8F:5F:CD:51:DD:E6:07:52:4B:98:2E:E1:95:B2:B0:86:5C:7E:51:77:14:FE:16:04:30:06:94:9E:37:98:35:2C"]
+    }
+  }
+]
