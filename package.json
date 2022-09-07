@@ -5,7 +5,7 @@
   "main": "",
   "homepage": "https://monkeyinator.github.io/.well-known",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages"
   },
   "author": "Tim Lindner",
   "license": "MIT",
